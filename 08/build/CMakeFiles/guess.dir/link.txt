@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic -Wl,--dependency-file=CMakeFiles/guess.dir/link.d CMakeFiles/guess.dir/src/guess.c.o -o guess
